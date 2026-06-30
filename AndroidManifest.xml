@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<manifest AndroidManifest.xml="http://schemas.android.com/apk/res/android"
 	package="com.isecpartners.android.manifestexplorer">
 	<uses-sdk android:minSdkVersion="1" />
 	<application android:icon="@drawable/icon"
